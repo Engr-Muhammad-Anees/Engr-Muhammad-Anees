@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Anees 👋
+# Hi, I'm Muhammad Anees 
 
 **Machine Learning Engineer | Computer Vision · Edge AI · Generative AI Pipelines**
 
@@ -14,7 +14,7 @@ on assistive vision for the visually impaired.
 - **Generative AI & LLMs:** RAG pipelines, Whisper-based audio/video workflows
 - **Automation:** n8n, LangChain, FFmpeg pipelines
 
-## 🛠 Tech Stack
+## Tech Stack
 | Area | Tools |
 |---|---|
 | Languages | Python, C++, Embedded C, MATLAB |
@@ -23,7 +23,7 @@ on assistive vision for the visually impaired.
 | Edge/IoT | TensorFlow Lite, Raspberry Pi, ESP32, MQTT, Node-RED |
 | Tools | Git, Docker, Linux, FFmpeg, Colab |
 
-## 🚀 Featured Projects
+##  Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
 | [Smart Surveillance for Blinds](link) | YOLOv5 assistive vision, deployed on Android | YOLOv5, Android |
